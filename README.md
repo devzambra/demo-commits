@@ -1,1 +1,1 @@
-# Demo project for commitlint and conventional commit standard
+# Demo project for commitlint and conventional commit
